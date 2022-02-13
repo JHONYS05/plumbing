@@ -1,0 +1,79 @@
+
+
+/*============
+
+This file only contains the theme color schemes, (not the style ) If you want to change the color schemes 
+of the theme 
+just change the color code  and rgba value. The whole theme color will be changed.
+
+===========*/
+
+
+
+
+
+/* Filter the 'background' value classes*/
+
+.switcher .switch_btn button,.search-box-area .form-group button,.btn-bg,.progress-levels .progress-box .bar .bar-fill,
+.progress-levels .progress-box .bar .bar-fill:before,.project-btn li a.active:before,.footer-social li a.active, 
+.footer-social li a:hover,.footer-subscribe button,.project-btn-two li.active:before,.news-content-two .lower-content:before,
+.twitter-wideget .single-twitter .icon-box,.categories-list li a.active:after, .categories-list li a:hover:after, 
+.download-file .single-file.active:after,.service-sidebar .cnt-content:before,.bottom-work-content .work-btn a:hover,
+.link-btn li a:hover, .link-btn li a.active,.blog-details-content .quot-text .icon-box,.dropdown-menu>li>a:hover,
+.contact-info .info-box .single-info .icon-box
+
+{
+	background: #f06627;
+}
+
+/* background style two */
+
+
+
+
+/* Filter the 'color' value classes*/
+
+a:hover,.search-box-area .search-toggle:hover i:before,.header-middle .header-info .single-info .icon-box i:before,
+.navigation > li.current > a,.navigation > li > ul > li:hover > a,.single-work-content .top-content .icon-box i:before,
+.single-work-content .lower-content li:before,.single-counter-content .icon-box i:before,.service-content a,
+.testimonial-content .content .author,.single-news-content .lower-content i:before,.single-news-content .lower-content 
+h4 a:hover,.contact-wideget .single-box i:before,.choose-content-two .time .count,.accordion .title i:before,
+.accordion-box .accordion .acc-btn .toggle-icon i.minus::before, .accordion-box .accordion .acc-btn .toggle-icon i.plus::before
+,.accordion .acc-content li:before,.read-btn a,.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>
+a:hover,.pricing-content .price,.sidebar-choose-content .title span,.default-portfolio-item .content .icon-box i:before,
+.testimonial-content-two .author h5,h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,.news-content-two .lower-content 
+.meta-content .button a:hover,.service-wideget-two li a:hover,.page-title .bread-crumb span,.categories-list li a.active, 
+.categories-list li a:hover, .download-file .single-file.active,.categories-list li a.active:before, .categories-list li 
+a:hover:before,.download-file .single-file.active a,.download-file .single-file.active a:before,.bottom-work-content span,
+.bottom-work-content .work-btn a,.related-project .single-item .content span,.error-section .error-title span, .error-section 
+.text a,.cost-sidebar-content .content .list li:before
+
+{
+	color:#f06627;
+}
+
+/* Filter the 'border color' value classes*/
+
+.search-box-area input,.navigation > li > ul,.btn-bg,input:focus, textarea:focus,.bottom-work-content .work-btn a
+
+{
+  border-color:#f06627;
+}
+
+
+
+
+
+/* change the theme logo for your own color schemes */
+
+.logo-box {
+    background: url(../../images/logo/logo7.png) no-repeat 9% 100%;
+}
+.header-style-two .logo-box {
+    background: url(../../images/logo/logo17.png) no-repeat 9% 100%;
+}
+
+
+.footer-logo{
+  background: url(../../images/footer/logo7.png) no-repeat 9% 100%;
+}
